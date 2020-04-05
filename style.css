@@ -1,0 +1,25 @@
+body{
+    margin: 20px;
+    padding: 30px;
+    background-color: aqua;
+}
+.mypro img{
+    height: 100px;
+
+}
+.cardheader{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.myform{
+    background-image: url(images/IMG_20191023_075240_8.jpg);
+    padding: 2% 40% 2% 40%;
+    background-size: 100%;
+    width: 50%;
+    font-size: 20px;
+    color: turquoise;
+}
+p{
+   font-size: 15px;
+}
